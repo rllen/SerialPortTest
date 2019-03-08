@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SerialPortTest</string>
+    <string name="hello">Hello World, ComAssistantActivity!</string>
+</resources>
